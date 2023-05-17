@@ -314,3 +314,49 @@ body{
     width: 100%;
 }
 /* end of signup */
+
+
+/* Beginning of spices */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+.slogan{
+    text-align: center;
+    font-size: 30px;
+    background-color: coral !important;
+    padding: 10px;
+}
+
+.img{
+    width: 75%;
+    height: 75%;
+    border-radius: 5%;
+}
+
+.spices{
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    grid-gap: 10px;
+    row-gap: 3em;
+    margin-left: 5%;
+}
+.details{
+    display: flex;
+    gap: 5em;
+    padding-bottom: 20px;
+}
+button{
+    border-radius: 10%;
+    background-color: coral;
+    border: none;
+    padding: 6px;
+}
+/* End of spices */
