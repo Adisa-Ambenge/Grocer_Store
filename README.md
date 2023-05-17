@@ -15,6 +15,6 @@ Front-end:HTML,CSS,Javascript
 This project is licensed under the MIT License.
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at contact@example.com.
+If you have any questions or suggestions, feel free to reach out to us at hello@mbogamtaani.com.
 
- #### Happy shopping at Mama Mboga's Online Store!
+ #### Happy shopping at Mboga mtaani Online Store!
